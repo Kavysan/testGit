@@ -3,3 +3,4 @@ def Hello_name(x):
 
 name=input("Enter name: ")
 Hello_name(name) 
+print("Hidden")
