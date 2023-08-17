@@ -1,6 +1,4 @@
-def Hello_name(x):
-    print("hello "+x+", How are you?")
-
-name=input("Enter name: ")
-Hello_name(name) 
-print("Hidden")
+print("hello world")
+for i in range(10):
+    print(i)
+    
